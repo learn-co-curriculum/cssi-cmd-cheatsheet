@@ -15,3 +15,5 @@
 + `mv <file to move> <final destination>`: to move a file to a new destination. You have to be in the same directory as the file you are moving. Also you have to list the path of directories in order to move the file to the final destination
 + <kbd>tab</kbd>: completes the file name if in the directory
 + `find <directory>`: Lists all of the sub-directories
+
+<a href='https://learn.co/lessons/cssi-cmd-cheatsheet' data-visibility='hidden'>View this lesson on Learn.co</a>
